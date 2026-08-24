@@ -21,4 +21,4 @@ Below steps are just outlines of a more detailed video guide. If help needed, re
 - Make necessary edits in `hello_world.cpp`
 - Run test task again, make sure it reports "<span style="color:green">Program passed tests</span>".
 - Click on source control, stage and commit required changes, sync with GitHub
-- Check in Github actions, make sure you passed test there too.
+- Open the repository's **Actions** tab, select **Unit 1 Grading**, and confirm the latest run passed. The run summary shows the test result and any numeric grade reported by the test harness.
